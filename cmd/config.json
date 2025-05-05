@@ -1,0 +1,22 @@
+{
+    "DebugMode": false,
+    "NumTileX": 9,
+    "NumTileY": 9,
+    "TileSize": 16,
+    "NumCharacterAnimImages": 4,
+    "NumFramePerCharacterAnimImage": 5,
+    "NumTileForDebug": 6,
+    "CameraMode": 1,
+    "FloorKind": 1,
+
+    "RandomGeneration": false,
+    "RandomMapDimensions": [9, 9],
+    "LogicMapGeneration": true,
+    "LogicMapSize": 65,
+
+    "AvoidWater": true,
+    "Zoomable": true,
+    "TeleportationExtension" : false,
+
+    "FloorFile": "../floor-files/exemple"
+}
